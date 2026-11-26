@@ -1,0 +1,31 @@
+
+Is the NIR detector a camera (takes pictures) or a single detector? What model is it?
+Is there a lens in front of it?
+How do I open its software, see the live view, set the frame rate and exposure, and save a recording?
+What file format does it save in?
+What are the model numbers of the piezo mount and the mirrors?
+
+3. Take phone photos of the whole bench, the NIR detector, the piezo mirror and the moving mirror.
+
+4. Look at the live view with the laser on.
+
+Can you see stripes? Take a photo of the screen.
+Find a spot with 2–3 clear stripes.
+Check the brightest pixel is well below the camera’s maximum. If not, shorten the exposure.
+Write down the frame rate and exposure.
+
+5. Record:
+
+Dark: block the laser and record a few hundred frames.
+Quiet: unblock the laser, step away from the table, and record 10–15 seconds.
+Repeat the quiet recording two more times.
+
+6. Log every recording. For example:
+
+11:40  dark_01      laser blocked   1000 fps, exp 0.5 ms
+11:45  quiet_01     laser on        1000 fps, exp 0.5 ms   fan running
+11:50  quiet_02     laser on        same                   nobody near table
+
+7. Copy the files to your laptop and send me one dark and one quiet file. If they’re too big to upload, send a screenshot of the folder and tell me the format. Then we’ll load them together and look at your real fringes.
+
+If anything goes differently than expected (it’s a single detector, there are no stripes, the software is confusing), take a photo and send it to me, and we’ll adjust the plan.
